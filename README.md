@@ -9,4 +9,4 @@
 >
 > SSEs are sent over traditional HTTP. That means they do not require a special protocol or server implementation to get working. WebSockets on the other hand, require full-duplex connections and new Web Socket servers to handle the protocol. In addition, Server-Sent Events have a variety of features that WebSockets lack by design such as automatic reconnection, event IDs, and the ability to send arbitrary events.
 * 현재 IE는 지원하지 않음 (https://caniuse.com/?search=Server-sent%20events)
-![img.png](..%2F..%2Fimg%2Fimg.png)
+![img.png](./img/img.png)
